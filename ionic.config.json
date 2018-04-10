@@ -1,0 +1,8 @@
+{
+  "name": "MyFirstMenue",
+  "app_id": "a8bfab69",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
